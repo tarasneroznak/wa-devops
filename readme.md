@@ -1,1 +1,1 @@
-# Lecture 1. Source Code Management. Git.
+# WebAcademy DevOps
